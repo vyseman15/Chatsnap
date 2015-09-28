@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello_world">Hello World</string>
+    <string name="app_name">ChatSnap</string>
+    <string name="action_settings">Settings</string>
+    <!-- UI Elements -->
+    <string name="btn_capture">Click</string>
+    
+    
+
+</resources>
